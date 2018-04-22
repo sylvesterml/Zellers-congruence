@@ -1,4 +1,4 @@
-# Zellers-congruence
+# Zeller's congruence
 ## Input
 year:  
 month:  

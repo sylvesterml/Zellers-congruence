@@ -12,7 +12,7 @@ make -f Makefile.zeller
 ./zeller  
   
 ## Zeller's congruence
-wikipedia  
+Wikipedia  
 (English)  
 https://en.wikipedia.org/wiki/Zeller%27s_congruence  
 (Japanese)  

@@ -1,0 +1,10 @@
+PROGRAM = zeller
+OBJS = zeller.o
+SRCS = $(OVJS:%.o=%.c)
+CC = gcc
+CFLAGS = -g -Wall
+LDFLAGS = 
+
+$(PROGRAM):$(OBJS)
+	$(CC) $(CFLAGS) $(DFLAGS) -o $(PROGRAM) $(OBJS) $(LDFLAGS)
+

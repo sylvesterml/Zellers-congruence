@@ -1,8 +1,8 @@
 # Zellers-congruence
 ## Input
-year:
-month:
-day:
+year:  
+month:  
+day:  
 
 ## Output
 day of the week
